@@ -2,6 +2,9 @@
 
 ![Screenshot 1](pics/screenshot1.png)
 
+## Gane Link
+[Unity Play](https://play.unity.com/mg/other/web-jhxqr)
+
 ## Project Statement
 Journey to Chang’an is a 2D serious game that aims to raise players’ interest in the culture and history of the Tang Dynasty. Different from many cultural heritage digitalization project which often offer overwhelming text or visuals for audience to intercept, this game enhances emergent game mechanics to incorporate the cultural contents in dispersive interactions. Players could experience over ten different storylines and explore various collectable items in the game to know what life in the Tang Dynasty could be like in immersive situations.
 
