@@ -1,4 +1,4 @@
-# Journey To Chang'an
+# Journey To Chang'an 上京记
 
 ![Screenshot 1](pics/screenshot1.png)
 
@@ -11,22 +11,34 @@ Journey to Chang’an is a 2D serious game that aims to raise players’ interes
 
 ## Staff List
 ·策划 Overall Design：包包
+
 ·程序 Engineering： 包包
+
 ·人文/剧情设计 Culture/Story Design：包包
+
 ·界面设计 UI Design：包包
+
 ·美术编辑 Graphic Editor：包包
+
 ·任务/物品设计 Quest/Item Design：包包
+
 ·声音设计/音乐 Sound Design/Music：包包
+
 ·测试开发 Test： 包包
+
 ·指导 Instructing：NYU Shanghai IMA Team
+
 ·特别感谢 Special Thanks: Chen Meiling, Zhao Lu
 
 ## Citation
   #### -Visual Assets-
   ·Title Page Background：《千里江山图》
+
   ·Map Backgrounds：[爱给网](https://www.aigei.com/view/70312.html)
+
   ·Character walking figures: [爱给网](https://www.aigei.com/view/287.html)
                              《轩辕剑》 - 大宇资讯
+
   ·Item Profile Pictures：香囊 - 成都博物馆
                           剪刀 - 大英博物馆
                           其他物品 - [千库网](https://588ku.com/)
