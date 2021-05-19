@@ -49,6 +49,9 @@ Journey to Chang’an is a 2D serious game that aims to raise players’ interes
   #### -Visual Assets-                        
   ·Cultural Research Resources：《中国古舆服论丛》
                                 《隋唐人的日常生活》
+                                
+  #### -Game Engine-
+  Unity
 
 ## Screenshots
 ![Screenshot 2](pics/screenshot2.png)
