@@ -42,9 +42,9 @@ Journey to Chang’an is a 2D serious game that aims to raise players’ interes
   ·Character walking figures: [爱给网](https://www.aigei.com/view/287.html)
                              《轩辕剑》 - 大宇资讯
 
-  ·Item Profile Pictures：香囊 - 成都博物馆
-                          剪刀 - 大英博物馆
-                          其他物品 - [千库网](https://588ku.com/)
+  ·Item Profile Pictures：香囊 Perfume  Bag- Chengdu Mesume
+                          剪刀 Scissors - the British Museum
+                          Other Items - [千库网](https://588ku.com/)
 
   #### -Visual Assets-                        
   ·Cultural Research Resources：《中国古舆服论丛》
@@ -66,6 +66,15 @@ Journey to Chang’an is a 2D serious game that aims to raise players’ interes
 
   #### -All Dialogue Scripts-
   [Google Sheet](https://docs.google.com/spreadsheets/d/1qwXmXgKnK1-vpbHM_FORp7HPfdSxIoZjqeRIubEuI0Q/edit?usp=sharing)
+  
+  #### -Design Highlights Video-
+  [Youtube](https://youtu.be/LSqLGmzKOhQ)
+  
+  #### -Complete Game Walkthrough-
+  [Youtube](https://youtu.be/s9bPxK5pXbo)
+  
+  #### -Music Audition: Flowers in the Wind-
+  [Youtube](https://youtu.be/80P3OolN92g)
 
 ## Version history
 2021.05.16 v1.0: The first published version!
