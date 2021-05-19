@@ -42,7 +42,7 @@ Journey to Chang’an is a 2D serious game that aims to raise players’ interes
   ·Character walking figures: [爱给网](https://www.aigei.com/view/287.html)
                              《轩辕剑》 - 大宇资讯
 
-  ·Item Profile Pictures：香囊 Perfume  Bag- Chengdu Mesume
+  ·Item Profile Pictures：香囊 Perfume  Bag- Chengdu Museum
                           剪刀 Scissors - the British Museum
                           Other Items - [千库网](https://588ku.com/)
 
