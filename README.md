@@ -2,7 +2,7 @@
 
 ![Screenshot 1](pics/screenshot1.png)
 
-## Gane Link
+## Game Link
 [Unity Play](https://play.unity.com/mg/other/web-jhxqr)
 
 ## Project Statement
