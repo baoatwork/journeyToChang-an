@@ -86,5 +86,8 @@ So I studied a lot of history materials, broke up the long introductions about c
   #### -Music Audition: Flowers in the Wind-
   [Youtube](https://youtu.be/80P3OolN92g)
 
+  #### -Game Trailer-
+  [Youtube](https://www.youtube.com/watch?v=DSw_b2yVkaY)
+  
 ## Version history
 2021.05.16 v1.0: The first published version!
